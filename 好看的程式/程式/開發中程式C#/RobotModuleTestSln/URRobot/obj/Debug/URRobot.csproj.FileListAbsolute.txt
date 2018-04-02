@@ -1,0 +1,7 @@
+D:\開發中程式C#\RobotModuleTestSln\URRobot\bin\Debug\URRobot.dll
+D:\開發中程式C#\RobotModuleTestSln\URRobot\bin\Debug\URRobot.pdb
+D:\開發中程式C#\RobotModuleTestSln\URRobot\bin\Debug\IRobotMotion.dll
+D:\開發中程式C#\RobotModuleTestSln\URRobot\bin\Debug\IRobotMotion.pdb
+D:\開發中程式C#\RobotModuleTestSln\URRobot\obj\Debug\URRobot.dll
+D:\開發中程式C#\RobotModuleTestSln\URRobot\obj\Debug\URRobot.pdb
+D:\開發中程式C#\RobotModuleTestSln\URRobot\obj\Debug\URRobot.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\開發中程式C#\RobotModuleTestSln\Toshiba4Robot\bin\Debug\Toshiba4Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\Toshiba4Robot\bin\Debug\Toshiba4Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\Toshiba4Robot\bin\Debug\IRobotMotion.dll
+D:\開發中程式C#\RobotModuleTestSln\Toshiba4Robot\bin\Debug\IRobotMotion.pdb
+D:\開發中程式C#\RobotModuleTestSln\Toshiba4Robot\obj\Debug\Toshiba4Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\Toshiba4Robot\obj\Debug\Toshiba4Robot.pdb

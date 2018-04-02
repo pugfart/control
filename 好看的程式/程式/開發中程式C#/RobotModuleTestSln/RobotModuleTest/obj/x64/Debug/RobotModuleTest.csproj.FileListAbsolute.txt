@@ -1,0 +1,87 @@
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IRobotMotion.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotCtrlCenter.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\FileOperation.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba6Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba4Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Epson6Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\URRobot.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\TsRemoteLib.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IRobotMotion.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotCtrlCenter.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\FileOperation.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba6Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba4Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Epson6Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\URRobot.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.Properties.Resources.resources
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.csproj.GenerateResource.Cache
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.csprojResolveAssemblyReference.cache
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RosShellCs.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IntervalZero.RTX64.dll
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.Form1.resources
+C:\Users\grace.huang\Desktop\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
+C:\Users\grace.huang\Desktop\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
+C:\Users\grace.huang\Desktop\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
+C:\Users\grace.huang\Desktop\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
+C:\Users\grace.huang\Desktop\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
+C:\Users\grace.huang\Desktop\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
+F:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
+F:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
+F:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IRobotMotion.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotCtrlCenter.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RosShellCs.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\FileOperation.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba6Robot.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba4Robot.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Epson6Robot.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\URRobot.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IntervalZero.RTX64.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\TsRemoteLib.dll
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IRobotMotion.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotCtrlCenter.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\FileOperation.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba6Robot.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba4Robot.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Epson6Robot.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\URRobot.pdb
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.csprojResolveAssemblyReference.cache
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.Form1.resources
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.Properties.Resources.resources
+E:\程式 花\程式test\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.csproj.GenerateResource.Cache
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IRobotMotion.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotCtrlCenter.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RosShellCs.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\FileOperation.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba6Robot.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba4Robot.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Epson6Robot.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\URRobot.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IntervalZero.RTX64.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\TsRemoteLib.dll
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\IRobotMotion.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotCtrlCenter.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\FileOperation.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba6Robot.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Toshiba4Robot.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\Epson6Robot.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\URRobot.pdb
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.csprojResolveAssemblyReference.cache
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.Form1.resources
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.Properties.Resources.resources
+C:\Users\andrew.hua\Desktop\好看的程式\程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.csproj.GenerateResource.Cache

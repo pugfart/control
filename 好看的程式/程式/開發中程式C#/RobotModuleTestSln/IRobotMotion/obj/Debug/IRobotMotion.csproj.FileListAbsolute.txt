@@ -1,0 +1,4 @@
+D:\開發中程式C#\RobotModuleTestSln\IRobotMotion\bin\Debug\IRobotMotion.dll
+D:\開發中程式C#\RobotModuleTestSln\IRobotMotion\bin\Debug\IRobotMotion.pdb
+D:\開發中程式C#\RobotModuleTestSln\IRobotMotion\obj\Debug\IRobotMotion.dll
+D:\開發中程式C#\RobotModuleTestSln\IRobotMotion\obj\Debug\IRobotMotion.pdb

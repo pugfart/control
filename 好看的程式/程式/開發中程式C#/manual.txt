@@ -1,0 +1,31 @@
+UR script, base version.
+
+This version only support UR robot.
+
+UR robot's ip address should be: 192.168.0.6
+
+How to start:
+1. Start program.
+2. Click "Robot Center Init".
+3. Click "Connect all Robots".
+4. Click "Start Get Pos Thread".
+5. You can control it now!
+
+There are some button haven't finished yet.
+Including "ArcMid指令","ArcEnd指令","MoveAbs指令","MoveRel指令","LineAbs指令","LineRel指令",
+	"DO1","刪除列表","Disconnect all Robots".
+
+How to end:
+1. Stop Get Pos Thread.
+2. Click "X" on the top right.
+
+Introducing button:
+MovePtoPAbs指令: write down robot position. MoveJ.
+LinePtoPAbs指令: write down robot position. MoveL.
+執行: Run command in DataGridView.
+停止: Stop running command.
+清空列表: Clear DataGridView.
+高速,中速,低速: Select speed. It doesn't work on X+,X-,Y+,Y-,Z+,Z-,Rx+,Rx-,Ry+,Ry-,Rz+,Rz-
+J1+,J1-,J2+,J2-,J3+,J3-,J4+,J4-,J5+,J5-,J6+,J6-: Move Joint.
+X+,X-,Y+,Y-,Z+,Z-: Move in axis. Won't effect by 高速,中速,低速.
+Rx+,Rx-,Ry+,Ry-,Rz+,Rz-: Turning tool in axis. Won't effect by 高速,中速,低速.
