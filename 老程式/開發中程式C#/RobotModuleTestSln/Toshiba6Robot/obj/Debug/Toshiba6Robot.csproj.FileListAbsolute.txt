@@ -1,0 +1,7 @@
+D:\開發中程式C#\RobotModuleTestSln\Toshiba6Robot\bin\Debug\Toshiba6Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\Toshiba6Robot\bin\Debug\Toshiba6Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\Toshiba6Robot\bin\Debug\IRobotMotion.dll
+D:\開發中程式C#\RobotModuleTestSln\Toshiba6Robot\bin\Debug\IRobotMotion.pdb
+D:\開發中程式C#\RobotModuleTestSln\Toshiba6Robot\obj\Debug\Toshiba6Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\Toshiba6Robot\obj\Debug\Toshiba6Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\Toshiba6Robot\obj\Debug\Toshiba6Robot.csprojResolveAssemblyReference.cache

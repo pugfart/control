@@ -1,0 +1,7 @@
+D:\開發中程式C#\RobotModuleTestSln\Epson6Robot\bin\Debug\Epson6Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\Epson6Robot\bin\Debug\Epson6Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\Epson6Robot\bin\Debug\IRobotMotion.dll
+D:\開發中程式C#\RobotModuleTestSln\Epson6Robot\bin\Debug\IRobotMotion.pdb
+D:\開發中程式C#\RobotModuleTestSln\Epson6Robot\obj\Debug\Epson6Robot.dll
+D:\開發中程式C#\RobotModuleTestSln\Epson6Robot\obj\Debug\Epson6Robot.pdb
+D:\開發中程式C#\RobotModuleTestSln\Epson6Robot\obj\Debug\Epson6Robot.csprojResolveAssemblyReference.cache

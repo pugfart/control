@@ -1,0 +1,1 @@
+D:\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\Release\RobotModuleTest.exe.config
