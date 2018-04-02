@@ -30,3 +30,6 @@ C:\Users\grace.huang\Desktop\程式\開發中程式C#\RobotModuleTestSln\RobotMo
 F:\老程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
 F:\老程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
 F:\老程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
+E:\control\control\老程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\bin\x64\Debug\RobotModuleTest.exe.config
+E:\control\control\老程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.exe
+E:\control\control\老程式\開發中程式C#\RobotModuleTestSln\RobotModuleTest\obj\x64\Debug\RobotModuleTest.pdb
