@@ -22,6 +22,7 @@ namespace URRobot
         public bool m_bCloseListenSocket = true;
         public bool m_bConnectedSocket = false;
 
+        public TcpClient tcpclnt = new TcpClient();
         //下命令讓UR移動的socket (在電腦這端為Server端)
         //需為非阻塞式socket
 
@@ -50,7 +51,7 @@ namespace URRobot
         /// </summary>
         /// <param name="nListenPort">監聽Port, 從手臂端連線到PC端</param>
         /// <returns>連線是否成功,1:成功,-1:失敗</returns>
-        public int ConnectRobot(int nPCListenPort)
+        public int ConnectRobot(string URIP,int nPCListenPort)
         {
             int nRet = -1;
             try
@@ -58,9 +59,10 @@ namespace URRobot
                 m_nListenPort = nPCListenPort; //監聽Port
                                        
                 //建立本地socket，一直對40000埠進行偵聽
-                IPEndPoint  recvCmdLocalEndPoint = new IPEndPoint(IPAddress.Any, m_nListenPort);
+               // IPEndPoint  recvCmdLocalEndPoint = new IPEndPoint(IPAddress.Any, m_nListenPort);
                 //IPEndPoint recvCmdLocalEndPoint = new IPEndPoint(IPAddress.Parse("192.168.0.5"), m_nListenPort);
-
+                tcpclnt.Connect("192.168.0.6", 30002);
+                //script連線 用同ip不同port
                 m_sListen = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
                // m_sListen = new Socket( SocketType.Stream, ProtocolType.Tcp);
                 //m_sListen.Bind(recvCmdLocalEndPoint);
