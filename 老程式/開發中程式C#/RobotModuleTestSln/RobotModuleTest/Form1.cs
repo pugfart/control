@@ -14,6 +14,8 @@ using RobotCtrlCenter;
 
 using ROS;
 
+using System.Net.Sockets;
+
 namespace RobotModuleTest
 {
 
@@ -560,6 +562,13 @@ namespace RobotModuleTest
                 dbRobotPosition[10] = m_dbWorldRy;
                 dbRobotPosition[11] = m_dbWorldRz;
 
+                m_dbJ1Radian = m_dbJ1Degree / 180 * 3.14;
+                m_dbJ2Radian = m_dbJ2Degree / 180 * 3.14;
+                m_dbJ3Radian = m_dbJ3Degree / 180 * 3.14;
+                m_dbJ4Radian = m_dbJ4Degree / 180 * 3.14;
+                m_dbJ5Radian = m_dbJ5Degree / 180 * 3.14;
+                m_dbJ6Radian = m_dbJ6Degree / 180 * 3.14;
+
                 if (m_PublisherPos != null)
                     m_PublisherPos.publish(SerializePosition(dbRobotPosition));
 
@@ -685,9 +694,21 @@ namespace RobotModuleTest
         {
             // g_robotCtrl.MoveJointAbsDegreeSpeed(0, Joints.J1, 350, 0.5, 0.1);
             // g_robotCtrl.MoveJointAbsDegreeSpeed(0, Joints.J1, 50, 0.5, 0.1);
-            int nRet = g_robotCtrl.JogJoint(0, Joints.J1, Jog_Directions.Plus, m_nCurrJogSpeed);
-            if (nRet != 0)
-                MessageBox.Show(string.Format("J1 Positive JogJoint Error! code = {0}", nRet));
+            /*     int nRet = g_robotCtrl.JogJoint(0, Joints.J1, Jog_Directions.Plus, m_nCurrJogSpeed);
+                 if (nRet != 0)
+                     MessageBox.Show(string.Format("J1 Positive JogJoint Error! code = {0}", nRet));*/
+            byte[] ba;
+            ASCIIEncoding asen = new ASCIIEncoding();
+            
+            ba = asen.GetBytes("def myProg(): \n");
+            stream.Write(ba, 0, ba.Length);              //輸出程式開頭
+
+            string task = "movej([6.2831852," + m_dbJ2Radian.ToString() + " , " + m_dbJ3Radian.ToString() + ", " + m_dbJ4Radian.ToString() + "," + m_dbJ5Radian.ToString() + ", " + m_dbJ6Radian.ToString() + "], a=" + a.ToString() + ", v=" + v.ToString() + ")\n";
+            ba = asen.GetBytes(task);//movej
+            stream.Write(ba, 0, ba.Length);                            //送 取得資料 指令
+
+            ba = asen.GetBytes("end \n");                            //程式結束開始執行
+            stream.Write(ba, 0, ba.Length);              //接收到 end 指令, UR即開始執行剛剛接收的檔案
         }
 
         private void J1PositiveBtn_MouseUp(object sender, MouseEventArgs e)
