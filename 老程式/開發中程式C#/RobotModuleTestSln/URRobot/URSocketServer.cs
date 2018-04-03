@@ -14,7 +14,7 @@ namespace URRobot
     {
         //Socket sRecvCmd;            //監聽Socket
         Socket m_sListen;            //監聽Socket
-        public Socket m_sConnected;    //成功連接到的socket
+    //    public Socket m_sConnected;    //成功連接到的socket
 
         int m_nListenPort;    //接收圖片請求命令  //電腦端這邊開出來的Port
                               //int sendPicPort;    //發送圖片命令
@@ -109,7 +109,7 @@ namespace URRobot
             int nRet = -1;
             try
             {
-                if (m_sConnected != null)
+              /*  if (m_sConnected != null)
                 {
                     if (m_sConnected.Connected)
                     {
@@ -125,7 +125,7 @@ namespace URRobot
                     }
                 }
                 else
-                    nRet = 0;
+                    nRet = 0;*/
 
 
                 if (m_sListen != null)
@@ -189,12 +189,12 @@ namespace URRobot
                 {
                     //Accept 以同步方式從偵聽通訊端的連接請求佇列中提取第一個掛起的連接請求，然後創建並返回新的 Socket
                     //Socket sRecvCmdTemp = m_sListen.Accept();
-                    m_sConnected = m_sListen.Accept();
+                  /*  m_sConnected = m_sListen.Accept();
                     m_sConnected.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.ReceiveTimeout, 5000);//設置接收資料超時
                     m_sConnected.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.SendTimeout, 5000);//設置發送資料超時
                     m_sConnected.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.SendBuffer, 1024); //設置發送緩衝區大小 1K
                     m_sConnected.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.ReceiveBuffer, 1024);//設置接收緩衝區大小1K
-
+*/
                     m_bConnectedSocket = true;
 
                 //    m_sConnected.IOControl(IOControlCode.KeepAliveValues, GetKeepAliveSetting(1, 5000, 5000), null);
@@ -238,7 +238,7 @@ namespace URRobot
         public bool SendData(string strSendData)
         {
             //判斷socket 是否還是連線狀態
-            if (m_sConnected.Connected)
+         /*   if (m_sConnected.Connected)
             {
                 try
                 {
@@ -254,7 +254,7 @@ namespace URRobot
                 }
                 return true;
             }
-            else
+            else*/
                 return false;
         }
 
@@ -266,7 +266,7 @@ namespace URRobot
         {
             int nRecvNum = 0;
             //判斷socket 是否還是連線狀態
-            if (m_sConnected.Connected)
+       /*     if (m_sConnected.Connected)
             {
                 try
                 {
@@ -286,7 +286,7 @@ namespace URRobot
 
                 return nRecvNum;
             }
-            else
+            else*/
                 return -1;
         }
 

@@ -60,7 +60,7 @@ namespace URRobot
             //Server Socket 用於操作手臂動作的socket
            // URSocketServer URServer = new URSocketServer(40000);
             URServer = new URSocketServer();
-            URServer.ConnectRobot(m_nPCListenPort);
+            URServer.ConnectRobot(m_strRobotIP,m_nPCListenPort);
 
           
 
