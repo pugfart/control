@@ -50,7 +50,7 @@ namespace URRobot
         /// </summary>
         /// <param name="nListenPort">監聽Port, 從手臂端連線到PC端</param>
         /// <returns>連線是否成功,1:成功,-1:失敗</returns>
-        public int ConnectRobot(string strURIP, int nPCListenPort)
+        public int ConnectRobot(int nPCListenPort)
         {
             int nRet = -1;
             try
@@ -58,7 +58,7 @@ namespace URRobot
                 m_nListenPort = nPCListenPort; //監聽Port
                                        
                 //建立本地socket，一直對40000埠進行偵聽
-                TcpClient  recvCmdLocalEndPoint = new TcpClient(strURIP, m_nListenPort);
+                IPEndPoint  recvCmdLocalEndPoint = new IPEndPoint(IPAddress.Any, m_nListenPort);
                 //IPEndPoint recvCmdLocalEndPoint = new IPEndPoint(IPAddress.Parse("192.168.0.5"), m_nListenPort);
 
                 m_sListen = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
